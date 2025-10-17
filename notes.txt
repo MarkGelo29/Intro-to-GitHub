@@ -1,0 +1,4 @@
+Notes for Git assignment:
+- Created repository on GitHub
+- Added sample files
+- Demonstrated clone, commit, and push
