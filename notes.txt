@@ -1,3 +1,5 @@
+Assignment #3: Introduction to GitHub
+
 Notes for Git assignment:
 - Created repository on GitHub
 - Added sample files
