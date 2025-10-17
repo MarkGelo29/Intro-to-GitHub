@@ -13,4 +13,4 @@ This repository contains files for the "Intro to GitHub" assignment.
 - `images/sample.png` - sample image
 
 ## Author
-Mark Rivera
+Mark Angelo Rivera
